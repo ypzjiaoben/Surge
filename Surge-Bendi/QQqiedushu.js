@@ -1,3 +1,4 @@
+/*ziye   ⚠️本地版，可以用来获取多账号的cookie
 
 本人github地址     https://github.com/ziye12/JavaScript 
 转载请备注个名字，谢谢
